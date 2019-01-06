@@ -1,4 +1,5 @@
-import style from "./main.css";
+import style from './main.css';
+import App from './app.js';
 
 const arr = [1, 2, 3];
 const iAmJavascriptES6 = () => console.log(...arr);
